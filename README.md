@@ -36,7 +36,7 @@ Outil professionnel de génération procédurale de sons pour jeux vidéo.
 
 ### 📫 Me contacter
 
-- 💼 [Profil freelance Malt](https://www.malt.fr/profile/julienchamoret)
+- 💼 [Profil freelance Malt]https://www.malt.fr/profile/julienchamoret
 - 📧 julien.chamoret@gmail.com
 
 ### 📊 Stats GitHub
